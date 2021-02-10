@@ -1,0 +1,25 @@
+In the following videos, we will be working with the command line using Unix commands.
+
+These commands are the same ones you would run in a Linux server (most servers on the internet run Linux) and will work fine on a Linux system or Mac.
+
+Some commands are different on Windows though.
+
+For consistency reasons, if you are a Windows user, you can use Git-bash to overcome this. (Git-bash may be already installed on your computer if you are using the latest Windows versions)
+
+And to make things easier, you can use hyper which can run using Git-bash.
+
+You can follow these steps and you will be up and running in no time:
+
+Download & install hyper using this link: https://releases.hyper.is/download/win
+
+Download & install Git using this link: https://git-scm.com/download/win. When selecting components, make sure “Windows explorer integration -> Git Bash Here” is ticked.
+
+Go to: https://gist.githubusercontent.com/droidMakk/f975a21b9d41578b19382ee102efc24d/raw/fc3bbf6423a746e456eee4cbb69d5a49ec7c9c6c/.hyper.js. Click anywhere on the webpage and press Ctrl-A, then Ctrl-C.
+
+Open the hyper terminal and press Ctrl-Comma. This will open your hyper configuration file.
+
+Click anywhere inside the configuration file, then press Ctrl-A, then Ctrl-V. This will paste the content of the webpage above to your file. Press Ctrl-S to save and close the configuration file.
+
+Restart Hyper: Now you will be able to run Unix commands on your Windows machine.
+
+If you get stuck, please post a question in the Q&A section of this lecture.
